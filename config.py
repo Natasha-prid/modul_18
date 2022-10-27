@@ -1,5 +1,5 @@
 
-TOKEN = '5793132537:AAFUUx_rPqJrxHFOBl1CeynYlZW91q0IcZ4'
+TOKEN = ''
 
 currency = {
     'USD': ('USD', 'ДОЛЛАР', '$'),
