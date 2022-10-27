@@ -8,4 +8,4 @@ currency = {
 }
 
 
-url = ('https://min-api.cryptocompare.com/data/price?fsym=', '&tsyms=')
+url = ()
